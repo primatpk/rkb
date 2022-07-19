@@ -6,3 +6,4 @@ tes nambah lagi ah
 lagi tambah tes
 
 Coba untuk pull Request
+Bekerja dengan hal-hal baru
